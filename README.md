@@ -2,7 +2,7 @@
 
 A node to help reduce the amount of unnessescary polygons and points in your scene by deleting the polys and points that are not visible to the camera, video game engine style!
 
-Video overview: https://vimeo.com/445508925
+Video overview: https://vimeo.com/457405615
 
 ## Installation
 
